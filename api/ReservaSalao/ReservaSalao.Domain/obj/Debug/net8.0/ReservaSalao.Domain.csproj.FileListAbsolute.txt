@@ -1,0 +1,11 @@
+D:\Work\curso\api\ReservaSalao\ReservaSalao.Domain\bin\Debug\net8.0\ReservaSalao.Domain.deps.json
+D:\Work\curso\api\ReservaSalao\ReservaSalao.Domain\bin\Debug\net8.0\ReservaSalao.Domain.dll
+D:\Work\curso\api\ReservaSalao\ReservaSalao.Domain\bin\Debug\net8.0\ReservaSalao.Domain.pdb
+D:\Work\curso\api\ReservaSalao\ReservaSalao.Domain\obj\Debug\net8.0\ReservaSalao.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\curso\api\ReservaSalao\ReservaSalao.Domain\obj\Debug\net8.0\ReservaSalao.Domain.AssemblyInfoInputs.cache
+D:\Work\curso\api\ReservaSalao\ReservaSalao.Domain\obj\Debug\net8.0\ReservaSalao.Domain.AssemblyInfo.cs
+D:\Work\curso\api\ReservaSalao\ReservaSalao.Domain\obj\Debug\net8.0\ReservaSalao.Domain.csproj.CoreCompileInputs.cache
+D:\Work\curso\api\ReservaSalao\ReservaSalao.Domain\obj\Debug\net8.0\ReservaSalao.Domain.dll
+D:\Work\curso\api\ReservaSalao\ReservaSalao.Domain\obj\Debug\net8.0\refint\ReservaSalao.Domain.dll
+D:\Work\curso\api\ReservaSalao\ReservaSalao.Domain\obj\Debug\net8.0\ReservaSalao.Domain.pdb
+D:\Work\curso\api\ReservaSalao\ReservaSalao.Domain\obj\Debug\net8.0\ref\ReservaSalao.Domain.dll

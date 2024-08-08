@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "VJd44Wfd6nTDMb56VU5E57s5qGr+4uxm/GvLawz2K08=",
+  "Source": "ReservaSalao.Api",
+  "BasePath": "_content/ReservaSalao.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ReservaSalao.Api\\wwwroot",
+      "Source": "ReservaSalao.Api",
+      "ContentRoot": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Api\\wwwroot\\",
+      "BasePath": "_content/ReservaSalao.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Api\\wwwroot\\swagger-custom.css",
+      "SourceId": "ReservaSalao.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Api\\wwwroot\\",
+      "BasePath": "_content/ReservaSalao.Api",
+      "RelativePath": "swagger-custom.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\swagger-custom.css"
+    }
+  ]
+}
