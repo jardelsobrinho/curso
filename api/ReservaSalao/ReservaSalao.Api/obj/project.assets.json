@@ -2503,6 +2503,7 @@
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "MediatR": "12.4.0",
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.7",
           "ReservaSalao.Domain": "1.0.0",
           "ReservaSalao.Infra": "1.0.0",
           "ReservaSaldo.CrossCutting": "1.0.0"
@@ -7612,19 +7613,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\android\\.nuget\\packages\\": {}
+    "C:\\Users\\jarde\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Api\\ReservaSalao.Api.csproj",
+      "projectUniqueName": "D:\\Work\\CursoFlutter\\curso\\api\\ReservaSalao\\ReservaSalao.Api\\ReservaSalao.Api.csproj",
       "projectName": "ReservaSalao.Api",
-      "projectPath": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Api\\ReservaSalao.Api.csproj",
-      "packagesPath": "C:\\Users\\android\\.nuget\\packages\\",
-      "outputPath": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Api\\obj\\",
+      "projectPath": "D:\\Work\\CursoFlutter\\curso\\api\\ReservaSalao\\ReservaSalao.Api\\ReservaSalao.Api.csproj",
+      "packagesPath": "C:\\Users\\jarde\\.nuget\\packages\\",
+      "outputPath": "D:\\Work\\CursoFlutter\\curso\\api\\ReservaSalao\\ReservaSalao.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\android\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jarde\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7639,14 +7640,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Application\\ReservaSalao.Application.csproj": {
-              "projectPath": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Application\\ReservaSalao.Application.csproj"
+            "D:\\Work\\CursoFlutter\\curso\\api\\ReservaSalao\\ReservaSalao.Application\\ReservaSalao.Application.csproj": {
+              "projectPath": "D:\\Work\\CursoFlutter\\curso\\api\\ReservaSalao\\ReservaSalao.Application\\ReservaSalao.Application.csproj"
             },
-            "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Domain\\ReservaSalao.Domain.csproj": {
-              "projectPath": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Domain\\ReservaSalao.Domain.csproj"
+            "D:\\Work\\CursoFlutter\\curso\\api\\ReservaSalao\\ReservaSalao.Domain\\ReservaSalao.Domain.csproj": {
+              "projectPath": "D:\\Work\\CursoFlutter\\curso\\api\\ReservaSalao\\ReservaSalao.Domain\\ReservaSalao.Domain.csproj"
             },
-            "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Infra\\ReservaSalao.Infra.csproj": {
-              "projectPath": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Infra\\ReservaSalao.Infra.csproj"
+            "D:\\Work\\CursoFlutter\\curso\\api\\ReservaSalao\\ReservaSalao.Infra\\ReservaSalao.Infra.csproj": {
+              "projectPath": "D:\\Work\\CursoFlutter\\curso\\api\\ReservaSalao\\ReservaSalao.Infra\\ReservaSalao.Infra.csproj"
             }
           }
         }
@@ -7706,7 +7707,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400-preview.0.24324.5/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

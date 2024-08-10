@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Domain\\ReservaSalao.Domain.csproj": {}
+    "D:\\Work\\CursoFlutter\\curso\\api\\ReservaSalao\\ReservaSalao.Domain\\ReservaSalao.Domain.csproj": {}
   },
   "projects": {
-    "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Domain\\ReservaSalao.Domain.csproj": {
+    "D:\\Work\\CursoFlutter\\curso\\api\\ReservaSalao\\ReservaSalao.Domain\\ReservaSalao.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Domain\\ReservaSalao.Domain.csproj",
+        "projectUniqueName": "D:\\Work\\CursoFlutter\\curso\\api\\ReservaSalao\\ReservaSalao.Domain\\ReservaSalao.Domain.csproj",
         "projectName": "ReservaSalao.Domain",
-        "projectPath": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Domain\\ReservaSalao.Domain.csproj",
-        "packagesPath": "C:\\Users\\android\\.nuget\\packages\\",
-        "outputPath": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Domain\\obj\\",
+        "projectPath": "D:\\Work\\CursoFlutter\\curso\\api\\ReservaSalao\\ReservaSalao.Domain\\ReservaSalao.Domain.csproj",
+        "packagesPath": "C:\\Users\\jarde\\.nuget\\packages\\",
+        "outputPath": "D:\\Work\\CursoFlutter\\curso\\api\\ReservaSalao\\ReservaSalao.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\android\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jarde\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400-preview.0.24324.5/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

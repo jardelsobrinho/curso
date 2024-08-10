@@ -1260,10 +1260,7 @@
       },
       "ReservaSalao.Domain/1.0.0": {
         "runtime": {
-          "ReservaSalao.Domain.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "ReservaSalao.Domain.dll": {}
         }
       },
       "ReservaSaldo.CrossCutting/1.0.0": {
@@ -1272,10 +1269,7 @@
           "System.Net.Http": "4.3.4"
         },
         "runtime": {
-          "ReservaSaldo.CrossCutting.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "ReservaSaldo.CrossCutting.dll": {}
         }
       }
     }

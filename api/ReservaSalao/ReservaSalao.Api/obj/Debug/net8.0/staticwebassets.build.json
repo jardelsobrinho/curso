@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VJd44Wfd6nTDMb56VU5E57s5qGr+4uxm/GvLawz2K08=",
+  "Hash": "c+3r364fYtfjhw4g46oR8KiAWrULyW8SWeYjruOYRGo=",
   "Source": "ReservaSalao.Api",
   "BasePath": "_content/ReservaSalao.Api",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ReservaSalao.Api\\wwwroot",
       "Source": "ReservaSalao.Api",
-      "ContentRoot": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Api\\wwwroot\\",
+      "ContentRoot": "D:\\Work\\CursoFlutter\\curso\\api\\ReservaSalao\\ReservaSalao.Api\\wwwroot\\",
       "BasePath": "_content/ReservaSalao.Api",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Api\\wwwroot\\swagger-custom.css",
+      "Identity": "D:\\Work\\CursoFlutter\\curso\\api\\ReservaSalao\\ReservaSalao.Api\\wwwroot\\swagger-custom.css",
       "SourceId": "ReservaSalao.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Api\\wwwroot\\",
+      "ContentRoot": "D:\\Work\\CursoFlutter\\curso\\api\\ReservaSalao\\ReservaSalao.Api\\wwwroot\\",
       "BasePath": "_content/ReservaSalao.Api",
       "RelativePath": "swagger-custom.css",
       "AssetKind": "All",
